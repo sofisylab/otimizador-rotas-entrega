@@ -1,0 +1,5 @@
+# Este projeto usa apenas a biblioteca padrão do Python (sqlite3, csv,
+# dataclasses, argparse, math) — não há dependências externas a instalar.
+#
+# Este arquivo existe apenas por consistência com os outros projetos
+# do portfólio e para deixar isso explícito.

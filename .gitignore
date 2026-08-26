@@ -1,0 +1,21 @@
+# Ambiente virtual Python
+venv/
+env/
+.venv/
+
+# Cache e bytecode do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos gerados pelo programa (banco de dados e relatório HTML)
+output/*
+!output/.gitkeep
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
